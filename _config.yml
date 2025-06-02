@@ -1,0 +1,7 @@
+title: Your Name
+email: your.email@domain.com
+description: >-
+  Postdoc at Harvard studying early language development.
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: jekyll-theme-minimal
