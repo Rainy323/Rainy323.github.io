@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fun
+permalink: /fun/
 ---
 
 [Home](/) | [Publications](/publications) | [Fun](/fun) 

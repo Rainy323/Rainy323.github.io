@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Home](/) | [Publications](/publications) | [Fun](/fun)  
+[Home](/) | [Publications](/publications/) | [Fun](/fun/)  
 
 
 # Hello, I'm Rainy

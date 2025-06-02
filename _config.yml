@@ -5,3 +5,5 @@ description: >-
 baseurl: ""
 url: "https://yourusername.github.io"
 theme: jekyll-theme-minimal
+include:
+  - _pages
