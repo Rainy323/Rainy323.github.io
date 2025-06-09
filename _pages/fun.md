@@ -4,10 +4,28 @@ title: Fun
 permalink: /fun/
 ---
 
-<div style="text-align: center; margin-bottom: 1em;">
-  <a href="/" style="margin: 0 1em;">Home</a>
-  <a href="/publications/" style="margin: 0 1em;">Publications</a>
-  <a href="/fun/" style="margin: 0 1em;">Fun</a>
+<style>
+  .nav-justified {
+    display: flex;
+    justify-content: space-between;
+    max-width: 600px;
+    margin: 0 auto 1em auto;
+    padding: 0 1em;
+    font-weight: bold;
+  }
+  .nav-justified a {
+    text-decoration: none;
+    color: #0366d6;
+  }
+  .nav-justified a:hover {
+    color: #d63384;
+  }
+</style>
+
+<div class="nav-justified">
+  <a href="/">Home</a>
+  <a href="/publications/">Publications</a>
+  <a href="/fun/">Fun</a>
 </div>
 <hr>
 
