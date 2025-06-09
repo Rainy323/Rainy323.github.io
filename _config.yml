@@ -2,8 +2,6 @@ title: Rainy Dong
 email: yuzhendong@fas.harvard.edu
 description: >-
   Postdoc at Harvard studying early language development.
-baseurl: ""
-url: "https://yourusername.github.io"
 theme: jekyll-theme-minimal
 include:
   - _pages
