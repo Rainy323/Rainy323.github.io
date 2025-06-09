@@ -3,11 +3,12 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-<nav class="navbar">
-  <a href="/">Home</a>
-  <a href="/publications/">Publications</a>
-  <a href="/fun/">Fun</a>
-</nav>
+
+<div style="text-align: center; margin-bottom: 1em;">
+  <a href="/" style="margin: 0 1em;">Home</a>
+  <a href="/publications/" style="margin: 0 1em;">Publications</a>
+  <a href="/fun/" style="margin: 0 1em;">Fun</a>
+</div>
 <hr>
 
 # Publications
