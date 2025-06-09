@@ -3,5 +3,7 @@ email: yuzhendong@fas.harvard.edu
 description: >-
   Postdoc at Harvard studying early language development.
 theme: jekyll-theme-minimal
+url: "https://rainy323.github.io" 
+
 include:
   - _pages
