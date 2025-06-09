@@ -4,7 +4,12 @@ title: Fun
 permalink: /fun/
 ---
 
-[Home](/) | [Publications](/publications) | [Fun](/fun) 
+<nav class="navbar">
+  <a href="/">Home</a>
+  <a href="/publications/">Publications</a>
+  <a href="/fun/">Fun</a>
+</nav>
+<hr>
 
 # Fun
 

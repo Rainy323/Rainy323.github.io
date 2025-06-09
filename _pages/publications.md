@@ -3,13 +3,16 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-
-[Home](/) | [Publications](/publications/) | [Fun](/fun/)
-
+<nav class="navbar">
+  <a href="/">Home</a>
+  <a href="/publications/">Publications</a>
+  <a href="/fun/">Fun</a>
+</nav>
+<hr>
 
 # Publications
 
-## under review
+## Under Review
 
 **Dong, Y.**, Mak, M. H., Hepach, R., & Nation, K. (2025). [Emotional Words, Emotional Contexts: Investigating Emotional Valence in Children’s Writing and Word Learning.](https://osf.io/preprints/osf/jmq2y_v1) *OSF Preprints*.
 
