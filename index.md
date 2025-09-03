@@ -55,4 +55,5 @@ Before that, I completed my BSc in Psychology at University College London.
 ## 📫 Get in Touch
 
 - 📧 Email: yuzhendong [at] fas.harvard.edu
+- 📅 [Book a time](https://calendar.app.google/4geQwrQzu8dwBvYm9) to chat with me! 
 
