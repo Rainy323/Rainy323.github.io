@@ -46,12 +46,13 @@ I guess what makes it so special, is that it’s really fun to say this word and
 
 ## My favourite childhood book
 
-Thomas the Really Useful Engine was one of the first English books I “read” (or maybe “played with” in kindergarten, because I was barely able to speak English then!) 
+*Thomas the Really Useful Engine* was one of the first English books I “read” (or maybe “played with” in kindergarten, because I was barely able to speak English then!) 
 But I had very fond memories exploring the book, especially pressing the sound button to hear Thomas puff on his way! 
-It was definitely the book to share when friends come to visit and I could retell the stories to them. It shows that reading can be a multi-sensory and collaborative process, and most of all, FUN!
+It was definitely the book to share when friends came to visit and I could retell the stories to them. It shows that reading can be a multi-sensory and collaborative process, and most of all, FUN!
 
 
 ## Why Rainy?
 
 My official Chinese name is Yuzhen, and Yu 雨 means "rain", hence Rainy. 
+My parents were married on a rainy day and I was born on a rainy day. And recently, I graduated from my PhD on a rainy day!
 
